@@ -12,3 +12,7 @@ Instructions for starting a project:
 WARNING!!!!!!
 During development, I encountered the fact that I was running out of API key limit, 
 if you have a problem with data fetching, create a new API key and paste it into the file
+
+![Image alt](https://github.com/dkm-1966/Foodie/blob/main/Знімок%20екрана%202025-03-13%20185656.png)
+![Image alt](https://github.com/dkm-1966/Foodie/blob/main/Знімок%20екрана%202025-03-13%20185721.png)
+![Image alt](https://github.com/dkm-1966/Foodie/blob/main/Знімок%20екрана%202025-03-13%20190514.png)
