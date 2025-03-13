@@ -8,3 +8,7 @@ Instructions for starting a project:
 2.Go to the project folder cd foodie
 3.Installing dependencies - npm install
 4.launch the project - npm run dev
+
+WARNING!!!!!!
+During development, I encountered the fact that I was running out of API key limit, 
+if you have a problem with data fetching, create a new API key and paste it into the file
